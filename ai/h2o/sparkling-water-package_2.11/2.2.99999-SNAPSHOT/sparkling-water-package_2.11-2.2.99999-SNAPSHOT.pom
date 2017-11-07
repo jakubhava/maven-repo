@@ -3,7 +3,32 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>ai.h2o</groupId>
-  <artifactId>sparkling-water-package_2.11</artifactId>
+  <artifactId>sparkling-water-package</artifactId>
   <version>2.2.99999-SNAPSHOT</version>
-  <description>POM was created from install:install-file</description>
+  <dependencies>
+    <dependency>
+      <groupId>ai.h2o</groupId>
+      <artifactId>sparkling-water-core</artifactId>
+      <version>2.2.99999-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>ai.h2o</groupId>
+      <artifactId>sparkling-water-examples</artifactId>
+      <version>2.2.99999-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>ai.h2o</groupId>
+      <artifactId>sparkling-water-ml</artifactId>
+      <version>2.2.99999-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>ai.h2o</groupId>
+      <artifactId>sparkling-water-repl</artifactId>
+      <version>2.2.99999-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
