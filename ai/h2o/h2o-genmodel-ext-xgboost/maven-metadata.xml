@@ -4,8 +4,8 @@
   <artifactId>h2o-genmodel-ext-xgboost</artifactId>
   <versioning>
     <versions>
-      <version>3.19.0.1-SNAPSHOT</version>
+      <version>0.0.1.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180410101852</lastUpdated>
+    <lastUpdated>20180410102302</lastUpdated>
   </versioning>
 </metadata>

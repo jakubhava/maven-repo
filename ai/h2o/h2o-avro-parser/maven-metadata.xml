@@ -4,8 +4,8 @@
   <artifactId>h2o-avro-parser</artifactId>
   <versioning>
     <versions>
-      <version>3.19.0.1-SNAPSHOT</version>
+      <version>0.0.1.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180410101838</lastUpdated>
+    <lastUpdated>20180410102104</lastUpdated>
   </versioning>
 </metadata>
