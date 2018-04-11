@@ -3,7 +3,7 @@
   <groupId>ai.h2o</groupId>
   <artifactId>h2o-algos</artifactId>
   <versioning>
-    <release>3.19.25.99999</release>
+    <release>3.19.27.99999</release>
     <versions>
       <version>3.19.10.99999</version>
       <version>3.19.11.99999</version>
@@ -20,7 +20,8 @@
       <version>3.19.23.99999</version>
       <version>3.19.24.99999</version>
       <version>3.19.25.99999</version>
+      <version>3.19.27.99999</version>
     </versions>
-    <lastUpdated>20180411115452</lastUpdated>
+    <lastUpdated>20180411180758</lastUpdated>
   </versioning>
 </metadata>
