@@ -3,7 +3,7 @@
   <groupId>ai.h2o</groupId>
   <artifactId>h2o-orc-parser</artifactId>
   <versioning>
-    <release>3.19.19.99999</release>
+    <release>3.19.20.99999</release>
     <versions>
       <version>3.19.10.99999</version>
       <version>3.19.11.99999</version>
@@ -14,7 +14,8 @@
       <version>3.19.17.99999</version>
       <version>3.19.18.99999</version>
       <version>3.19.19.99999</version>
+      <version>3.19.20.99999</version>
     </versions>
-    <lastUpdated>20180411103140</lastUpdated>
+    <lastUpdated>20180411104748</lastUpdated>
   </versioning>
 </metadata>
