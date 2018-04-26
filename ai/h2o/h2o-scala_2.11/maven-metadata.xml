@@ -3,12 +3,9 @@
   <groupId>ai.h2o</groupId>
   <artifactId>h2o-scala_2.11</artifactId>
   <versioning>
-    <release>3.19.30.99999</release>
     <versions>
-      <version>3.19.28.99999</version>
-      <version>3.19.29.99999</version>
-      <version>3.19.30.99999</version>
+      <version>3.19.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180411185031</lastUpdated>
+    <lastUpdated>20180426081916</lastUpdated>
   </versioning>
 </metadata>
